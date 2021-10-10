@@ -1,0 +1,5 @@
+There is nothing call Multiple Linear Regression
+it is Linear regression but insted of one parameter we are using more then one
+
+y = bx1 + bx2 +bx3 +......+ c
+
